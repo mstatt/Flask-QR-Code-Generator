@@ -4,4 +4,4 @@
 How to call and pass params:
 
 Example:
-http://<your-domain-name>/?sourceUrl=https://www.google.com/&sourceName=Google
+http://{your-domain-name}/?sourceUrl=https://www.google.com/&sourceName=Google
